@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This is a Power BI project on HR Analytics. The goal of the project is to analyze and derive insights on factors impacting attrition. This analysis will help company determine what action they will need to take to retain more employees.
+This ia a Power BI project on HR Analytics aimed at analyzing and deriving insights on the factors that impact attrition. The primary objective of the project is to assist the company in determining the necessary actions to take to retain more employees
 
 ## Tools
 
