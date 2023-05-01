@@ -16,5 +16,5 @@ This is a Power BI project on HR Analytics. The goal of the project is to analyz
 * Insights
 
 ## Data Visualization
-
+![](HR_Analytics.png)
 
