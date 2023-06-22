@@ -43,7 +43,7 @@ Various steps has been performed like removing duplicates, replacing values, cha
 <img width="393" alt="a_age" src="https://github.com/ishita9988/HR-Attrition-Analysis/assets/129153274/bd48605b-81d3-4fa7-aa7c-754a5607ee3b">
 
 
-**Employees in the age group of 25-35 has the highest attrition count while employess having age greater than fifty gas the lowest attrition count.**
+**Employees in the age group of 25-35 has the highest attrition count while employess having age greater than fifty has the lowest attrition count.**
 
 
 
